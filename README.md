@@ -9,3 +9,5 @@ Papers List
 3- ELECTRA: PRE-TRAINING TEXT ENCODERS AS DISCRIMINATORS RATHER THAN GENERATORS
 
 4- Exploring Transfer Learning with T5: the Text-To-Text Transfer Transformer (5T)
+
+5- Rainbow: Combining Improvements in Deep Reinforcement Learning

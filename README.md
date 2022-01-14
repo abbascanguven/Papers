@@ -11,3 +11,7 @@ Papers List
 4- Exploring Transfer Learning with T5: the Text-To-Text Transfer Transformer (5T)
 
 5- Rainbow: Combining Improvements in Deep Reinforcement Learning
+
+6- DON’T DECAY THE LEARNING RATE, INCREASE THE BATCH SIZE
+
+7- DeepCrawl: Deep Reinforcement Learning for Turn-based Strategy Games

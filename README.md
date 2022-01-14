@@ -15,3 +15,5 @@ Papers List
 6- DON’T DECAY THE LEARNING RATE, INCREASE THE BATCH SIZE
 
 7- DeepCrawl: Deep Reinforcement Learning for Turn-based Strategy Games
+
+8- FinRL: A Deep Reinforcement Learning Library for Automated Stock Trading in Quantitative Finance
